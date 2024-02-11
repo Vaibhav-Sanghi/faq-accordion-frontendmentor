@@ -1,4 +1,4 @@
-# Frontend Mentor - Social links profile
+# Frontend Mentor - FAQ Accordion
 
 ## Overview
 
